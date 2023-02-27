@@ -1,0 +1,26 @@
+{
+  "name": "js-katas",
+  "version": "1.0.0",
+  "description": "My Javascript Katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iztoksvetik/js-katas.git"
+  },
+  "author": "Iztok Svetik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iztoksvetik/js-katas/issues"
+  },
+  "homepage": "https://github.com/iztoksvetik/js-katas#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "@types/jest": "^29.4.0",
+    "babel-jest": "^29.4.3",
+    "jest": "^29.4.3"
+  }
+}
